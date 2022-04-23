@@ -1,7 +1,6 @@
 body {
     display: flex;
     flex-direction: column;
-    
     margin: 0;
     height: 100vh;
     justify-content: space-between;
@@ -68,4 +67,10 @@ a {
     justify-content: center;
     margin: 80px;
     margin-top: 0;
+}
+
+h1.header {
+    font-weight: 900;
+    font-size: 48px;
+    color: #f9faf8;
 }
