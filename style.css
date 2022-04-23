@@ -1,7 +1,7 @@
 body {
     display: flex;
     flex-direction: column;
-    width: 100vw;
+    
     margin: 0;
     height: 100vh;
     justify-content: space-between;
@@ -13,7 +13,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    gap: 50px;
+    gap: 80px;
     padding: 20px 200px;
 }
 
@@ -62,8 +62,10 @@ a {
     color: #e5e7eb;
     height: 200px;
     width: 300px;
-    background-color: #494949;
+    background-color: #8b8b8b;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 80px;
+    margin-top: 0;
 }
