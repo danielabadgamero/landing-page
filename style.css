@@ -28,6 +28,10 @@ header .top {
     justify-content: space-between;
 }
 
+a {
+    text-decoration: none;
+}
+
 .header-links {
     display: flex;
     justify-content: space-evenly;
