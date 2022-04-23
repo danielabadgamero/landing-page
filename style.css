@@ -31,5 +31,5 @@ header .top {
 .header-links {
     display: flex;
     justify-content: space-evenly;
-    gap: 8px;
+    gap: 16px;
 }
