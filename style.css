@@ -124,3 +124,7 @@ h1.main {
     border-radius: 10px;
     border-color: #3882f6;
 }
+
+.info {
+    text-align: center;
+}
