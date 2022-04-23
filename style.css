@@ -91,4 +91,13 @@ button.blue {
 
 main {
     padding: 20px 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1.main {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
 }
