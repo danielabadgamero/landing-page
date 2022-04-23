@@ -5,6 +5,7 @@ body {
     margin: 0;
     height: 100vh;
     justify-content: space-between;
+    font-family: "Ubuntu", sans-serif;
 }
 
 header {
@@ -15,4 +16,8 @@ header {
 
 footer {
     background-color: #1f2937;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
