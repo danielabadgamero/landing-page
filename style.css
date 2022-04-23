@@ -155,3 +155,18 @@ div.quote {
 .author {
     font-weight: 900;
 }
+
+.card {
+    display: flex;
+    margin: 20px 200px;
+    padding: 50px;
+    justify-content: center;
+}
+
+.blue-square {
+    background-color: #3882f6;
+    border-radius: 10px;
+    border-style: none;
+    padding: 50px 100px;
+    display: flex;
+}
