@@ -12,6 +12,7 @@ header {
     background-color: #1f2937;
     display: flex;
     flex-direction: column;
+    padding: 20px 200px;
 }
 
 footer {
