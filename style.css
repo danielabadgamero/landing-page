@@ -58,11 +58,12 @@ a {
 
 .placeholder {
     flex: 1;
-    margin: auto;
-    text-align: center;
     font-size: 18px;
     color: #e5e7eb;
-    height: auto;
-    width: auto;
+    height: 200px;
+    width: 300px;
     background-color: #494949;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
