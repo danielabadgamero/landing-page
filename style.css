@@ -88,3 +88,7 @@ button.blue {
     border-radius: 10px;
     border-style: none;
 }
+
+main {
+    padding: 20px 200px;
+}
