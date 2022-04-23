@@ -101,3 +101,24 @@ h1.main {
     font-weight: 900;
     color: #1f2937;
 }
+
+.infos {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+
+.infos div {
+    width: 200px;
+}
+
+.img {
+    height: 200px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-width: 10px;
+    border-radius: 10px;
+    border-color: #3882f6;
+}
