@@ -2,4 +2,9 @@ body {
     display: flex;
     flex-direction: column;
     width: vw;
+    margin: 0;
+}
+
+header {
+    background-color: #1f2937;
 }
