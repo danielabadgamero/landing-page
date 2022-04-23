@@ -169,4 +169,20 @@ div.quote {
     border-style: none;
     padding: 50px 100px;
     display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+
+.call-to-action {
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+button.white {
+    border: #e5e7eb solid;
 }
