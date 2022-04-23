@@ -184,5 +184,11 @@ h3 {
 }
 
 button.white {
-    border: #e5e7eb solid;
+    color: #e5e7eb;
+    background-color: #3882f6;
+    padding: 8px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #e5e7eb;
 }
