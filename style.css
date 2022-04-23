@@ -22,3 +22,14 @@ footer {
     justify-content: center;
     align-items: center;
 }
+
+header .top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-links {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 8px;
+}
