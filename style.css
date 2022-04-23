@@ -79,3 +79,12 @@ h2 {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+button.blue {
+    color: #e5e7eb;
+    background-color: #3882f6;
+    padding: 8px 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    border-style: none;
+}
